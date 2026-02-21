@@ -2,4 +2,4 @@
 *.pdf
 *.sqlite
 *.sqlite3
-.ipynb checkpoints/
+.ipynb_checkpoints/
