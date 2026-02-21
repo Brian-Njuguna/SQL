@@ -1,1 +1,5 @@
 *.db
+*.pdf
+*.sqlite
+*.sqlite3
+.ipynb checkpoints/
